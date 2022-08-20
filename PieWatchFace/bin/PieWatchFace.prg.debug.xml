@@ -8,118 +8,220 @@
 <entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceApp.mc" id="3" lineNum="16" parent="globals/PieWatchFaceApp" pc="268435484" symbol="onStop"/>
 <entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceApp.mc" id="4" lineNum="20" parent="globals/PieWatchFaceApp" pc="268435489" symbol="getInitialView"/>
 <entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceApp.mc" id="4" lineNum="21" parent="globals/PieWatchFaceApp" pc="268435493" symbol="getInitialView"/>
-<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceApp.mc" id="5" lineNum="5" parent="globals/PieWatchFaceApp" pc="268436163" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceApp.mc" id="5" lineNum="5" parent="globals/PieWatchFaceApp" pc="268436163" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceApp.mc" id="5" lineNum="5" parent="globals/PieWatchFaceApp" pc="268437107" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceApp.mc" id="5" lineNum="5" parent="globals/PieWatchFaceApp" pc="268437107" symbol="&lt;init&gt;"/>
 <entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceApp.mc" id="6" lineNum="26" parent="globals" pc="268435531" symbol="getApp"/>
 <entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceApp.mc" id="6" lineNum="27" parent="globals" pc="268435543" symbol="getApp"/>
-<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="8" lineNum="8" parent="globals/PieWatchFaceView" pc="268435560" symbol="initialize"/>
-<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="8" lineNum="9" parent="globals/PieWatchFaceView" pc="268435564" symbol="initialize"/>
-<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="9" lineNum="13" parent="globals/PieWatchFaceView" pc="268435583" symbol="onLayout"/>
-<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="9" lineNum="14" parent="globals/PieWatchFaceView" pc="268435587" symbol="onLayout"/>
-<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="10" lineNum="20" parent="globals/PieWatchFaceView" pc="268435625" symbol="onShow"/>
-<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="11" lineNum="24" parent="globals/PieWatchFaceView" pc="268435630" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="11" lineNum="26" parent="globals/PieWatchFaceView" pc="268435634" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="11" lineNum="28" parent="globals/PieWatchFaceView" pc="268435654" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="11" lineNum="30" parent="globals/PieWatchFaceView" pc="268435669" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="11" lineNum="31" parent="globals/PieWatchFaceView" pc="268435682" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="11" lineNum="32" parent="globals/PieWatchFaceView" pc="268435695" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="11" lineNum="33" parent="globals/PieWatchFaceView" pc="268435731" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="11" lineNum="34" parent="globals/PieWatchFaceView" pc="268435751" symbol="onUpdate"/>
-<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="12" lineNum="37" parent="globals/PieWatchFaceView" pc="268435840" symbol="getTimeInDegrees"/>
-<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="12" lineNum="38" parent="globals/PieWatchFaceView" pc="268435844" symbol="getTimeInDegrees"/>
-<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="12" lineNum="39" parent="globals/PieWatchFaceView" pc="268435861" symbol="getTimeInDegrees"/>
-<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="12" lineNum="40" parent="globals/PieWatchFaceView" pc="268435871" symbol="getTimeInDegrees"/>
-<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="12" lineNum="42" parent="globals/PieWatchFaceView" pc="268435878" symbol="getTimeInDegrees"/>
-<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="12" lineNum="43" parent="globals/PieWatchFaceView" pc="268435884" symbol="getTimeInDegrees"/>
-<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="12" lineNum="44" parent="globals/PieWatchFaceView" pc="268435894" symbol="getTimeInDegrees"/>
-<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="12" lineNum="47" parent="globals/PieWatchFaceView" pc="268435904" symbol="getTimeInDegrees"/>
-<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="13" lineNum="50" parent="globals/PieWatchFaceView" pc="268435926" symbol="scaleDegrees"/>
-<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="13" lineNum="51" parent="globals/PieWatchFaceView" pc="268435930" symbol="scaleDegrees"/>
-<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="14" lineNum="54" parent="globals/PieWatchFaceView" pc="268435940" symbol="swapDegrees"/>
-<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="14" lineNum="55" parent="globals/PieWatchFaceView" pc="268435944" symbol="swapDegrees"/>
-<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="15" lineNum="61" parent="globals/PieWatchFaceView" pc="268435954" symbol="onHide"/>
-<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="16" lineNum="65" parent="globals/PieWatchFaceView" pc="268435959" symbol="onExitSleep"/>
-<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="17" lineNum="69" parent="globals/PieWatchFaceView" pc="268435964" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="18" lineNum="6" parent="globals/PieWatchFaceView" pc="268436212" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="18" lineNum="6" parent="globals/PieWatchFaceView" pc="268436212" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="20" lineNum="2" parent="globals/Rez/Drawables" pc="268436206" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="21" lineNum="6" parent="globals/Rez/Fonts" pc="268436208" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="22" lineNum="8" parent="globals/Rez/JsonData" pc="268436210" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="23" lineNum="17" parent="globals/Rez/Layouts" pc="268435969" symbol="WatchFace"/>
-<entry filename="Rez" id="23" lineNum="19" parent="globals/Rez/Layouts" pc="268435981" symbol="WatchFace"/>
-<entry filename="Rez" id="23" lineNum="21" parent="globals/Rez/Layouts" pc="268436144" symbol="WatchFace"/>
-<entry filename="Rez" id="24" lineNum="10" parent="globals/Rez/Layouts" pc="268436209" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="25" lineNum="26" parent="globals/Rez/Menus" pc="268436207" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="26" lineNum="28" parent="globals/Rez/Strings" pc="268436211" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="27" lineNum="1" parent="globals/Rez" pc="268436182" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="27" lineNum="1" parent="globals/Rez" pc="268436182" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="8" lineNum="13" parent="globals/PaintContext" pc="268435560" symbol="initialize"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="8" lineNum="14" parent="globals/PaintContext" pc="268435564" symbol="initialize"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="8" lineNum="15" parent="globals/PaintContext" pc="268435574" symbol="initialize"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="8" lineNum="16" parent="globals/PaintContext" pc="268435599" symbol="initialize"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="8" lineNum="17" parent="globals/PaintContext" pc="268435624" symbol="initialize"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="8" lineNum="18" parent="globals/PaintContext" pc="268435647" symbol="initialize"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="9" lineNum="6" parent="globals/PaintContext" pc="268437156" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="10" lineNum="23" parent="globals/Painter" pc="268435671" symbol="drawTextCentered"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="10" lineNum="24" parent="globals/Painter" pc="268435675" symbol="drawTextCentered"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="11" lineNum="27" parent="globals/Painter" pc="268435739" symbol="drawNumberCentered"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="11" lineNum="28" parent="globals/Painter" pc="268435743" symbol="drawNumberCentered"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="12" lineNum="31" parent="globals/Painter" pc="268435816" symbol="drawArc"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="12" lineNum="32" parent="globals/Painter" pc="268435820" symbol="drawArc"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="12" lineNum="33" parent="globals/Painter" pc="268435837" symbol="drawArc"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="12" lineNum="35" parent="globals/Painter" pc="268435854" symbol="drawArc"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="12" lineNum="36" parent="globals/Painter" pc="268435869" symbol="drawArc"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="12" lineNum="38" parent="globals/Painter" pc="268435884" symbol="drawArc"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="13" lineNum="41" parent="globals/Painter" pc="268435937" symbol="toDegrees"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="13" lineNum="42" parent="globals/Painter" pc="268435941" symbol="toDegrees"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="14" lineNum="45" parent="globals/Painter" pc="268435954" symbol="mapDegrees"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="14" lineNum="46" parent="globals/Painter" pc="268435958" symbol="mapDegrees"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="15" lineNum="49" parent="globals/Painter" pc="268435984" symbol="scaleDegrees"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="15" lineNum="50" parent="globals/Painter" pc="268435988" symbol="scaleDegrees"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="16" lineNum="53" parent="globals/Painter" pc="268435998" symbol="swapDegrees"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="16" lineNum="54" parent="globals/Painter" pc="268436002" symbol="swapDegrees"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="17" lineNum="22" parent="globals/Painter" pc="268437251" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="18" lineNum="22" parent="globals/Painter" pc="268436012" symbol="initialize"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="19" lineNum="67" parent="globals/TimePainter" pc="268436015" symbol="initialize"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="19" lineNum="68" parent="globals/TimePainter" pc="268436019" symbol="initialize"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="19" lineNum="69" parent="globals/TimePainter" pc="268436029" symbol="initialize"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="19" lineNum="70" parent="globals/TimePainter" pc="268436039" symbol="initialize"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="19" lineNum="71" parent="globals/TimePainter" pc="268436049" symbol="initialize"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="19" lineNum="72" parent="globals/TimePainter" pc="268436062" symbol="initialize"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="20" lineNum="75" parent="globals/TimePainter" pc="268436093" symbol="isNeedDraw"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="20" lineNum="76" parent="globals/TimePainter" pc="268436097" symbol="isNeedDraw"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="21" lineNum="79" parent="globals/TimePainter" pc="268436134" symbol="draw"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="21" lineNum="80" parent="globals/TimePainter" pc="268436138" symbol="draw"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="21" lineNum="81" parent="globals/TimePainter" pc="268436155" symbol="draw"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="21" lineNum="82" parent="globals/TimePainter" pc="268436174" symbol="draw"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="21" lineNum="84" parent="globals/TimePainter" pc="268436184" symbol="draw"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="21" lineNum="85" parent="globals/TimePainter" pc="268436200" symbol="draw"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="21" lineNum="86" parent="globals/TimePainter" pc="268436228" symbol="draw"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="21" lineNum="88" parent="globals/TimePainter" pc="268436254" symbol="draw"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="21" lineNum="90" parent="globals/TimePainter" pc="268436272" symbol="draw"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="21" lineNum="92" parent="globals/TimePainter" pc="268436298" symbol="draw"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="21" lineNum="93" parent="globals/TimePainter" pc="268436309" symbol="draw"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="21" lineNum="94" parent="globals/TimePainter" pc="268436334" symbol="draw"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="21" lineNum="96" parent="globals/TimePainter" pc="268436362" symbol="draw"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="21" lineNum="98" parent="globals/TimePainter" pc="268436378" symbol="draw"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="21" lineNum="101" parent="globals/TimePainter" pc="268436391" symbol="draw"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="21" lineNum="102" parent="globals/TimePainter" pc="268436407" symbol="draw"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="21" lineNum="103" parent="globals/TimePainter" pc="268436435" symbol="draw"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="21" lineNum="105" parent="globals/TimePainter" pc="268436469" symbol="draw"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="22" lineNum="108" parent="globals/TimePainter" pc="268436491" symbol="toMinutes"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="22" lineNum="109" parent="globals/TimePainter" pc="268436495" symbol="toMinutes"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="23" lineNum="112" parent="globals/TimePainter" pc="268436520" symbol="drawHour"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="23" lineNum="113" parent="globals/TimePainter" pc="268436524" symbol="drawHour"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="23" lineNum="114" parent="globals/TimePainter" pc="268436535" symbol="drawHour"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="23" lineNum="117" parent="globals/TimePainter" pc="268436539" symbol="drawHour"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="23" lineNum="118" parent="globals/TimePainter" pc="268436558" symbol="drawHour"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="24" lineNum="121" parent="globals/TimePainter" pc="268436599" symbol="drawMinutes"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="24" lineNum="122" parent="globals/TimePainter" pc="268436603" symbol="drawMinutes"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="24" lineNum="123" parent="globals/TimePainter" pc="268436614" symbol="drawMinutes"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="24" lineNum="126" parent="globals/TimePainter" pc="268436618" symbol="drawMinutes"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="24" lineNum="127" parent="globals/TimePainter" pc="268436637" symbol="drawMinutes"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="25" lineNum="59" parent="globals/TimePainter" pc="268437176" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="25" lineNum="58" parent="globals/TimePainter" pc="268437176" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="26" lineNum="135" parent="globals/PieWatchFaceView" pc="268436693" symbol="initialize"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="26" lineNum="136" parent="globals/PieWatchFaceView" pc="268436697" symbol="initialize"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="27" lineNum="140" parent="globals/PieWatchFaceView" pc="268436716" symbol="onLayout"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="27" lineNum="141" parent="globals/PieWatchFaceView" pc="268436720" symbol="onLayout"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="28" lineNum="147" parent="globals/PieWatchFaceView" pc="268436758" symbol="onShow"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="29" lineNum="151" parent="globals/PieWatchFaceView" pc="268436763" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="29" lineNum="152" parent="globals/PieWatchFaceView" pc="268436767" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="29" lineNum="153" parent="globals/PieWatchFaceView" pc="268436780" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="29" lineNum="157" parent="globals/PieWatchFaceView" pc="268436835" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="29" lineNum="159" parent="globals/PieWatchFaceView" pc="268436855" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="30" lineNum="165" parent="globals/PieWatchFaceView" pc="268436898" symbol="onHide"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="31" lineNum="169" parent="globals/PieWatchFaceView" pc="268436903" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="32" lineNum="173" parent="globals/PieWatchFaceView" pc="268436908" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="33" lineNum="131" parent="globals/PieWatchFaceView" pc="268437157" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\Jhayphal\\Downloads\\PieWatchFace\\PieWatchFace\\source\\PieWatchFaceView.mc" id="33" lineNum="131" parent="globals/PieWatchFaceView" pc="268437157" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="35" lineNum="2" parent="globals/Rez/Drawables" pc="268437150" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="36" lineNum="6" parent="globals/Rez/Fonts" pc="268437152" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="37" lineNum="8" parent="globals/Rez/JsonData" pc="268437154" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="38" lineNum="17" parent="globals/Rez/Layouts" pc="268436913" symbol="WatchFace"/>
+<entry filename="Rez" id="38" lineNum="19" parent="globals/Rez/Layouts" pc="268436925" symbol="WatchFace"/>
+<entry filename="Rez" id="38" lineNum="21" parent="globals/Rez/Layouts" pc="268437088" symbol="WatchFace"/>
+<entry filename="Rez" id="39" lineNum="10" parent="globals/Rez/Layouts" pc="268437153" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="40" lineNum="26" parent="globals/Rez/Menus" pc="268437151" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="41" lineNum="28" parent="globals/Rez/Strings" pc="268437155" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="42" lineNum="1" parent="globals/Rez" pc="268437126" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="42" lineNum="1" parent="globals/Rez" pc="268437126" symbol="&lt;init&gt;"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8388639" module="true" symbol="Graphics"/>
-<entry id="16" method="true" symbol="scaleDegrees"/>
+<entry id="32" method="true" symbol="scaleDegrees"/>
+<entry id="28" method="true" symbol="drawMinutes"/>
 <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
 <entry id="4" module="true" symbol="globals/Rez/Menus"/>
-<entry id="15" method="true" symbol="getTimeInDegrees"/>
-<entry id="17" method="true" symbol="swapDegrees"/>
+<entry field="true" id="23" symbol="lastDrawMinute"/>
+<entry id="10" object="true" symbol="PaintContext"/>
+<entry field="true" id="19" symbol="xCenter"/>
+<entry field="true" id="20" symbol="yCenter"/>
+<entry id="33" method="true" symbol="swapDegrees"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-<entry field="true" id="14" symbol="AppName"/>
+<entry field="true" id="17" symbol="AppName"/>
 <entry id="8" module="true" symbol="globals/Rez/Strings"/>
 <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="29" method="true" symbol="drawTextCentered"/>
 <entry id="8388648" module="true" symbol="WatchUi"/>
 <entry id="2" module="true" symbol="globals/Rez"/>
+<entry id="8389307" method="true" symbol="toDegrees"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
 <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
 <entry field="true" id="8389065" symbol="locY"/>
 <entry field="true" id="8389064" symbol="locX"/>
+<entry id="26" method="true" symbol="toMinutes"/>
+<entry id="8389687" method="true" symbol="drawArc"/>
 <entry id="8388771" module="true" object="true" symbol="Drawables"/>
 <entry id="8389348" symbol="font"/>
-<entry id="12" module="true" symbol="Menus"/>
+<entry id="30" method="true" symbol="drawNumberCentered"/>
+<entry field="true" id="8389067" symbol="height"/>
+<entry id="15" module="true" symbol="Menus"/>
 <entry id="8389275" method="true" symbol="getApp"/>
 <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+<entry field="true" id="8389066" symbol="width"/>
+<entry field="true" id="21" symbol="painter"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
 <entry id="8389376" method="true" symbol="onEnterSleep"/>
 <entry field="true" id="8389063" symbol="identifier"/>
 <entry id="8389349" symbol="justification"/>
+<entry id="27" method="true" symbol="drawHour"/>
+<entry id="25" method="true" symbol="isNeedDraw"/>
 <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
 <entry id="9" object="true" symbol="PieWatchFaceApp"/>
 <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry field="true" id="22" symbol="colorsArrays"/>
+<entry field="true" id="24" symbol="hoursMax"/>
 <entry id="8389377" method="true" symbol="onExitSleep"/>
 <entry id="8388644" module="true" symbol="System"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
 <entry id="8388640" module="true" symbol="Lang"/>
+<entry id="31" method="true" symbol="mapDegrees"/>
 <entry id="8390088" module="true" object="true" symbol="JsonData"/>
-<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry field="true" id="16" symbol="LauncherIcon"/>
 <entry id="8388610" symbol="statics"/>
 <entry id="8389123" method="true" symbol="onShow"/>
-<entry id="10" object="true" symbol="PieWatchFaceView"/>
+<entry id="13" object="true" symbol="PieWatchFaceView"/>
 <entry id="8389350" module="true" symbol="globals"/>
 <entry id="8388770" module="true" object="true" symbol="Strings"/>
 <entry id="8388702" method="true" symbol="initialize"/>
 <entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="18" symbol="screen"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
 <entry id="8389281" method="true" symbol="onStop"/>
 <entry id="8389347" symbol="color"/>
-<entry id="11" module="true" symbol="Layouts"/>
+<entry id="14" module="true" symbol="Layouts"/>
+<entry id="11" object="true" symbol="Painter"/>
 <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+<entry field="true" id="8389743" symbol="backgroundColor"/>
 <entry id="8389125" method="true" symbol="onHide"/>
 <entry id="8388635" module="true" symbol="Application"/>
+<entry id="12" object="true" symbol="TimePainter"/>
 </symbolTable>
 <localVars>
 <entry arg="true" endPc="268435483" name="state" stackId="1" startPc="268435479"/>
 <entry arg="true" endPc="268435488" name="state" stackId="1" startPc="268435484"/>
-<entry arg="true" endPc="268435624" name="dc" stackId="1" startPc="268435583"/>
-<entry endPc="268435838" name="height" stackId="4" startPc="268435634"/>
-<entry endPc="268435838" name="width" stackId="3" startPc="268435634"/>
-<entry endPc="268435838" name="degrees" stackId="2" startPc="268435634"/>
-<entry arg="true" endPc="268435839" name="dc" stackId="1" startPc="268435630"/>
-<entry endPc="268435924" name="hours" stackId="3" startPc="268435844"/>
-<entry endPc="268435924" name="scaleFactor" stackId="4" startPc="268435844"/>
-<entry endPc="268435924" name="clockTime" stackId="2" startPc="268435844"/>
-<entry arg="true" endPc="268435925" name="h24Format" stackId="1" startPc="268435840"/>
-<entry arg="true" endPc="268435939" name="x" stackId="1" startPc="268435926"/>
-<entry arg="true" endPc="268435953" name="x" stackId="1" startPc="268435940"/>
-<entry endPc="268436160" name="rez_cmp_local_text_TimeLabel" stackId="2" startPc="268435981"/>
-<entry arg="true" endPc="268436161" name="dc" stackId="1" startPc="268435969"/>
+<entry arg="true" endPc="268435670" name="screen" stackId="1" startPc="268435560"/>
+<entry arg="true" endPc="268435738" name="font" stackId="3" startPc="268435671"/>
+<entry arg="true" endPc="268435738" name="context" stackId="1" startPc="268435671"/>
+<entry arg="true" endPc="268435738" name="text" stackId="2" startPc="268435671"/>
+<entry arg="true" endPc="268435815" name="font" stackId="3" startPc="268435739"/>
+<entry arg="true" endPc="268435815" name="num" stackId="2" startPc="268435739"/>
+<entry arg="true" endPc="268435815" name="context" stackId="1" startPc="268435739"/>
+<entry endPc="268435935" name="fromDegrees" stackId="6" startPc="268435820"/>
+<entry endPc="268435935" name="toDegrees" stackId="7" startPc="268435820"/>
+<entry endPc="268435935" name="to" stackId="9" startPc="268435820"/>
+<entry endPc="268435935" name="from" stackId="8" startPc="268435820"/>
+<entry arg="true" endPc="268435936" name="radius" stackId="2" startPc="268435816"/>
+<entry arg="true" endPc="268435936" name="unitsMax" stackId="5" startPc="268435816"/>
+<entry arg="true" endPc="268435936" name="fromUnits" stackId="3" startPc="268435816"/>
+<entry arg="true" endPc="268435936" name="context" stackId="1" startPc="268435816"/>
+<entry arg="true" endPc="268435936" name="toUnits" stackId="4" startPc="268435816"/>
+<entry arg="true" endPc="268435953" name="units" stackId="1" startPc="268435937"/>
+<entry arg="true" endPc="268435953" name="unitsMax" stackId="2" startPc="268435937"/>
+<entry arg="true" endPc="268435983" name="x" stackId="1" startPc="268435954"/>
+<entry arg="true" endPc="268435997" name="x" stackId="1" startPc="268435984"/>
+<entry arg="true" endPc="268436011" name="x" stackId="1" startPc="268435998"/>
+<entry arg="true" endPc="268436092" name="backgroundColor" stackId="3" startPc="268436015"/>
+<entry arg="true" endPc="268436092" name="width" stackId="2" startPc="268436015"/>
+<entry arg="true" endPc="268436092" name="hoursMax" stackId="1" startPc="268436015"/>
+<entry endPc="268436489" name="hours" stackId="3" startPc="268436138"/>
+<entry endPc="268436489" name="foregroundColor" stackId="5" startPc="268436138"/>
+<entry endPc="268436489" name="minutes" stackId="4" startPc="268436138"/>
+<entry endPc="268436489" name="time" stackId="2" startPc="268436138"/>
+<entry arg="true" endPc="268436490" name="context" stackId="1" startPc="268436134"/>
+<entry arg="true" endPc="268436519" name="time" stackId="1" startPc="268436491"/>
+<entry endPc="268436597" name="radius" stackId="3" startPc="268436524"/>
+<entry arg="true" endPc="268436598" name="hour" stackId="2" startPc="268436520"/>
+<entry arg="true" endPc="268436598" name="context" stackId="1" startPc="268436520"/>
+<entry endPc="268436691" name="radius" stackId="4" startPc="268436603"/>
+<entry arg="true" endPc="268436692" name="hour" stackId="2" startPc="268436599"/>
+<entry arg="true" endPc="268436692" name="minutes" stackId="3" startPc="268436599"/>
+<entry arg="true" endPc="268436692" name="context" stackId="1" startPc="268436599"/>
+<entry arg="true" endPc="268436757" name="dc" stackId="1" startPc="268436716"/>
+<entry arg="true" endPc="268436897" name="dc" stackId="1" startPc="268436763"/>
+<entry endPc="268437104" name="rez_cmp_local_text_TimeLabel" stackId="2" startPc="268436925"/>
+<entry arg="true" endPc="268437105" name="dc" stackId="1" startPc="268436913"/>
 </localVars>
 <annotations>
 <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
@@ -127,15 +229,18 @@
 </annotations>
 <dataEntryOffsetMappings>
 <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
-<dataEntry label="globals/PieWatchFaceApp" offset="158" parentId="globals" symbolId="PieWatchFaceApp" type="class"/>
-<dataEntry label="globals/Rez" offset="229" parentId="globals" symbolId="Rez" type="module"/>
-<dataEntry label="globals/Rez/Drawables" offset="308" parentId="Rez" symbolId="Drawables" type="module"/>
-<dataEntry label="globals/Rez/Menus" offset="347" parentId="Rez" symbolId="Menus" type="module"/>
-<dataEntry label="globals/Rez/Fonts" offset="378" parentId="Rez" symbolId="Fonts" type="module"/>
-<dataEntry label="globals/Rez/Layouts" offset="409" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry label="globals/Rez/JsonData" offset="448" parentId="Rez" symbolId="JsonData" type="module"/>
-<dataEntry label="globals/Rez/Strings" offset="479" parentId="Rez" symbolId="Strings" type="module"/>
-<dataEntry label="globals/PieWatchFaceView" offset="518" parentId="globals" symbolId="PieWatchFaceView" type="class"/>
+<dataEntry label="globals/PieWatchFaceApp" offset="182" parentId="globals" symbolId="PieWatchFaceApp" type="class"/>
+<dataEntry label="globals/Rez" offset="253" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/Rez/Drawables" offset="332" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Menus" offset="371" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry label="globals/Rez/Fonts" offset="402" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="433" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/JsonData" offset="472" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="503" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry label="globals/PaintContext" offset="542" parentId="globals" symbolId="PaintContext" type="class"/>
+<dataEntry label="globals/PieWatchFaceView" offset="629" parentId="globals" symbolId="PieWatchFaceView" type="class"/>
+<dataEntry label="globals/TimePainter" offset="732" parentId="globals" symbolId="TimePainter" type="class"/>
+<dataEntry label="globals/Painter" offset="867" parentId="globals" symbolId="Painter" type="class"/>
 </dataEntryOffsetMappings>
 <functions>
 <functionEntry accessMode="public" endPc="268435478" name="initialize" parent="PieWatchFaceApp" startPc="268435456">
@@ -152,73 +257,142 @@
 <functionEntry accessMode="public" endPc="268435530" name="getInitialView" parent="PieWatchFaceApp" startPc="268435489">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268436181" name="&lt;init&gt;" parent="PieWatchFaceApp" startPc="268436163">
+<functionEntry accessMode="protected" endPc="268437125" name="&lt;init&gt;" parent="PieWatchFaceApp" startPc="268437107">
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" endPc="268435559" name="getApp" startPc="268435531">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435582" name="initialize" parent="PieWatchFaceView" startPc="268435560">
+<functionEntry accessMode="public" endPc="268435670" name="initialize" parent="PaintContext" startPc="268435560">
+<param id="screen"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435624" name="onLayout" parent="PieWatchFaceView" startPc="268435583">
-<param id="dc"/>
+<functionEntry accessMode="protected" endPc="268437156" name="&lt;init&gt;" parent="PaintContext" startPc="268437156">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435629" name="onShow" parent="PieWatchFaceView" startPc="268435625">
+<functionEntry accessMode="public" endPc="268435738" name="drawTextCentered" parent="Painter" startPc="268435671">
+<param id="context"/>
+<param id="text"/>
+<param id="font"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435839" name="onUpdate" parent="PieWatchFaceView" startPc="268435630">
-<param id="dc"/>
+<functionEntry accessMode="public" endPc="268435815" name="drawNumberCentered" parent="Painter" startPc="268435739">
+<param id="context"/>
+<param id="num"/>
+<param id="font"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435925" name="getTimeInDegrees" parent="PieWatchFaceView" startPc="268435840">
-<param id="h24Format"/>
+<functionEntry accessMode="public" endPc="268435936" name="drawArc" parent="Painter" startPc="268435816">
+<param id="context"/>
+<param id="radius"/>
+<param id="fromUnits"/>
+<param id="toUnits"/>
+<param id="unitsMax"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435939" name="scaleDegrees" parent="PieWatchFaceView" startPc="268435926">
+<functionEntry accessMode="public" endPc="268435953" name="toDegrees" parent="Painter" startPc="268435937">
+<param id="units"/>
+<param id="unitsMax"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435983" name="mapDegrees" parent="Painter" startPc="268435954">
 <param id="x"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435953" name="swapDegrees" parent="PieWatchFaceView" startPc="268435940">
+<functionEntry accessMode="public" endPc="268435997" name="scaleDegrees" parent="Painter" startPc="268435984">
 <param id="x"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435958" name="onHide" parent="PieWatchFaceView" startPc="268435954">
+<functionEntry accessMode="public" endPc="268436011" name="swapDegrees" parent="Painter" startPc="268435998">
+<param id="x"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435963" name="onExitSleep" parent="PieWatchFaceView" startPc="268435959">
+<functionEntry accessMode="protected" endPc="268437251" name="&lt;init&gt;" parent="Painter" startPc="268437251">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435968" name="onEnterSleep" parent="PieWatchFaceView" startPc="268435964">
+<functionEntry accessMode="public" endPc="268436014" name="initialize" parent="Painter" startPc="268436012">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268436230" name="&lt;init&gt;" parent="PieWatchFaceView" startPc="268436212">
+<functionEntry accessMode="public" endPc="268436092" name="initialize" parent="TimePainter" startPc="268436015">
+<param id="hoursMax"/>
+<param id="width"/>
+<param id="backgroundColor"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268436206" name="&lt;init&gt;" parent="Drawables" startPc="268436206">
+<functionEntry accessMode="public" endPc="268436133" name="isNeedDraw" parent="TimePainter" startPc="268436093">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268436208" name="&lt;init&gt;" parent="Fonts" startPc="268436208">
+<functionEntry accessMode="public" endPc="268436490" name="draw" parent="TimePainter" startPc="268436134">
+<param id="context"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268436210" name="&lt;init&gt;" parent="JsonData" startPc="268436210">
+<functionEntry accessMode="public" endPc="268436519" name="toMinutes" parent="TimePainter" startPc="268436491">
+<param id="time"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268436161" name="WatchFace" parent="Layouts" startPc="268435969">
+<functionEntry accessMode="public" endPc="268436598" name="drawHour" parent="TimePainter" startPc="268436520">
+<param id="context"/>
+<param id="hour"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436692" name="drawMinutes" parent="TimePainter" startPc="268436599">
+<param id="context"/>
+<param id="hour"/>
+<param id="minutes"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437250" name="&lt;init&gt;" parent="TimePainter" startPc="268437176">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436715" name="initialize" parent="PieWatchFaceView" startPc="268436693">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436757" name="onLayout" parent="PieWatchFaceView" startPc="268436716">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268436209" name="&lt;init&gt;" parent="Layouts" startPc="268436209">
+<functionEntry accessMode="public" endPc="268436762" name="onShow" parent="PieWatchFaceView" startPc="268436758">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268436207" name="&lt;init&gt;" parent="Menus" startPc="268436207">
+<functionEntry accessMode="public" endPc="268436897" name="onUpdate" parent="PieWatchFaceView" startPc="268436763">
+<param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268436211" name="&lt;init&gt;" parent="Strings" startPc="268436211">
+<functionEntry accessMode="public" endPc="268436902" name="onHide" parent="PieWatchFaceView" startPc="268436898">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268436205" name="&lt;init&gt;" parent="Rez" startPc="268436182">
+<functionEntry accessMode="public" endPc="268436907" name="onExitSleep" parent="PieWatchFaceView" startPc="268436903">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436912" name="onEnterSleep" parent="PieWatchFaceView" startPc="268436908">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437175" name="&lt;init&gt;" parent="PieWatchFaceView" startPc="268437157">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437150" name="&lt;init&gt;" parent="Drawables" startPc="268437150">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437152" name="&lt;init&gt;" parent="Fonts" startPc="268437152">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437154" name="&lt;init&gt;" parent="JsonData" startPc="268437154">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437105" name="WatchFace" parent="Layouts" startPc="268436913">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437153" name="&lt;init&gt;" parent="Layouts" startPc="268437153">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437151" name="&lt;init&gt;" parent="Menus" startPc="268437151">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437155" name="&lt;init&gt;" parent="Strings" startPc="268437155">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268437149" name="&lt;init&gt;" parent="Rez" startPc="268437126">
 <documentation/>
 </functionEntry>
 </functions>
